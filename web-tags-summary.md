@@ -1,6 +1,6 @@
 # Tags accompanying “web” in highlighted CTFtime writeups
 
-The number in parentheses is how many highlighted writeups carry each tag. A writeup can carry several tags, so the counts add up to more than 449.
+Apart from the obvious "web" tag appearing 1561 times, there were also 449 writeups with unique tags related to web challenges but without the "web" tag.
 
 - **XSS / client-side:** xss (73), csp-bypass (8), csp (4), cssinjection (4), dom-clobbering (4), xsleaks (2), blind-xss, client-side, content-injection, content-spoofing, cross-frame-scripting, crosssitescripting, dom-purify, jsonp, mime-sniffing, mxss, puppeteer, rpo, stored-xss, xs-leak (1 each)
 - **SQL injection:** sqli (53), sqlinjection (20), sql-injection (4), blind-sql-injection, blindsql, bsqli, md5-sqli, sql_injection (1 each)
